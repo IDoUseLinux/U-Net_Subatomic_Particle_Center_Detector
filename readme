@@ -1,0 +1,2 @@
+# Enhanced U-Net for Subatomic particle center detection/prediction
+This U-Net machine learning model is designed to identify subatomic particle centers to a precision of under 0.1 pixels in 20-30% occupancy scenarios. 
